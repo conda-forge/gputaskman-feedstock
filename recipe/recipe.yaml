@@ -1,5 +1,5 @@
 context:
-  version: "0.3.3"
+  version: "0.4.1"
 
 package:
   name: gputaskman
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/g/gputaskman/gputaskman-${{ version }}.tar.gz
-  sha256: 1ef8a8291cfa26844c2f07c6071edf0610b11539f282d09b9ef24761b7f6d6b5
+  sha256: 70020496f3dd813f592c923fa99606e6819367dc82ca13984ffcb73898374688
 
 build:
   number: 0
